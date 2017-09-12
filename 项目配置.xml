@@ -1,0 +1,9 @@
+1.VC++目录:
+  (1)包含目录:
+     D:\Program Files\opencv\build\include;$(IncludePath)
+  (2)库目录:
+     D:\Program Files\opencv\build\x86\vc12\lib;$(LibraryPath)
+
+2.链接器=>输入
+     opencv_core2413d.lib
+     opencv_highgui2413d.lib
